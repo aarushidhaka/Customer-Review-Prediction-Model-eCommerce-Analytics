@@ -1,6 +1,5 @@
-# Customer-Review-Prediction-Model-eCommerce-Analytics
+# 🛒 Customer-Review-Prediction-Model-eCommerce-Analytics
 
-# 🛒 Customer Review Prediction Model – eCommerce Analytics
 
 This project develops a predictive analytics system for **Nile**, a leading South American eCommerce platform, to identify customers most likely to leave positive product reviews. By leveraging advanced machine learning techniques, we aimed to boost the platform’s ROI and strengthen brand reputation by increasing the volume and quality of customer feedback.  
 
@@ -73,7 +72,7 @@ The project was built as part of the *Analytics in Practice* module at Warwick B
 ### `dataset.zip`
 - Cleaned dataset ready for ML pipeline:
   - Customer attributes, order details, delivery timelines, and review scores.
-
+- Due to some issues dataset.zip is unable to upload, please reachout on linkedin if dataset is needed.
 ---
 
 ## 🚀 How to Run
