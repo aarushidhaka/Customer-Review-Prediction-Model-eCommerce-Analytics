@@ -78,6 +78,6 @@ The project was built as part of the *Analytics in Practice* module at Warwick B
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/customer-review-prediction-model.git
+   git clone https://github.com/aarushidhaka/Customer-Review-Prediction-Model-eCommerce-Analytics.git
    cd customer-review-prediction-model
 
